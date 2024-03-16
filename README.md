@@ -44,4 +44,4 @@ Current release: Version 1.04
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md]([LICENSE.md](https://github.com/ljstein99/Rocket-League/blob/main/LICENSE)https://github.com/ljstein99/Rocket-League/blob/main/LICENSE) file for details

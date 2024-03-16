@@ -16,7 +16,6 @@ To get started with the Auto Derank Script, follow these steps:
 ### Installation
 
 1. Download the latest version of the executable from the [Releases](https://github.com/ljstein99/Rocket-League/releases) section.
-2. Extract the `.zip` file to your desired location.
 
 ### Running the Script
 
@@ -37,7 +36,7 @@ This script is designed for educational purposes and to demonstrate the capabili
 
 ## Created By
 
-This tool was developed by ljstein99 with the purpose of exploring automation with Python. It's provided as-is under the MIT License. Feel free to fork, modify, and use the script as you see fit.
+This tool was developed by ljstein99 with the purpose of exploring automation with Python. It's provided as-is under the MIT License.
 
 ## Version
 

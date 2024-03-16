@@ -15,7 +15,7 @@ To get started with the Auto Derank Script, follow these steps:
 
 ### Installation
 
-1. Download the latest version of the executable from the [Releases](https://github.com/your-username/auto-derank/releases) section.
+1. Download the latest version of the executable from the [Releases](https://github.com/ljstein99/Rocket-League/releases) section.
 2. Extract the `.zip` file to your desired location.
 
 ### Running the Script

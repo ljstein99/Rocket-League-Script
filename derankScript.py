@@ -62,7 +62,6 @@ def custom_press(key):
     # Key up
     ReleaseKey(key)
 
-# The provided instruction steps implemented:
 def main_loop():
     # 1. Wait 5 seconds to start the program.
     time.sleep(5)
